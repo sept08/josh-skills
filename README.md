@@ -31,3 +31,7 @@ npx skills add sept08/josh-skills
 直接告诉 Claude Code：
 
 > Please install Skills from github.com/sept08/josh-skills
+
+## License
+
+Private
