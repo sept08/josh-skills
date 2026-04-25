@@ -1,0 +1,9 @@
+# 调试用的项目级技能，按技能名称逐个忽略
+.claude/skills/get-glm/
+
+# 用户级配置
+.claude/settings.local.json
+.claude/scheduled_tasks.lock
+
+# 依赖
+node_modules/

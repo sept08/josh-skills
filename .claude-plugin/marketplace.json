@@ -1,0 +1,21 @@
+{
+  "name": "hack-skills",
+  "owner": {
+    "name": "Josh"
+  },
+  "metadata": {
+    "description": "非常规手段的技能集合，涵盖日常工作和生活中的 hack 方案",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "hack-skills",
+      "description": "非常规手段的 hack 技能集合",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/get-glm"
+      ]
+    }
+  ]
+}
